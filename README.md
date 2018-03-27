@@ -1,0 +1,2 @@
+# fibonaci
+alghozi fibonaci
